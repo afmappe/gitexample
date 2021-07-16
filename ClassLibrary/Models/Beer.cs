@@ -10,7 +10,12 @@ namespace ClassLibrary
 
         public string Type { get; set; }
 
-        void Dring()
+        void Drink()
+        {
+            
+        }
+
+        void DrinkMore()
         {
             
         }
