@@ -15,5 +15,9 @@ namespace ClassLibrary
             return base.ToString();
         }
 
+        public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
     }
 }
