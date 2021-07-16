@@ -9,5 +9,10 @@ namespace ClassLibrary
         public string Name { get; set; }
 
         public string Type { get; set; }
+
+        void Dring()
+        {
+            
+        }
     }
 }
