@@ -10,6 +10,10 @@ namespace ClassLibrary
 
         public DateTime Date { get; set; }
 
-    
+        public override string ToString()
+        {
+            return base.ToString();
+        }
+
     }
 }
